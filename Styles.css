@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+b,h3{
+    color: #23A4FA;
+}
+
+
+.fonarti{
+    background: #34A1D1  ;
+}
+
+/*body*/
+body{
+    background: #2B2B2B;
+    
+}
+
+header, .main, footer{
+    background: #ffffff;
+    width: 90%;
+    max-width: 1150px;
+    margin: 20px auto;
+}
+
+header nav{
+    background: #000000;
+    overflow: hidden;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    float: left;
+}
+
+.solin {
+    background: #23A4FA;
+}
+
+header nav ul li a {
+    padding: 10px 20px;
+    display: block;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+header nav ul li a:hover{
+    background: #23A4FA;
+}
+
+.main .articles{
+    width:70%;
+    float: left;
+     background: #ffffff;
+}
+
+.main .articles article{
+     padding: 20px;   
+}
+
+aside{
+    width: 30%;
+    background: #ffffff;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/*Footer*/
+footer{
+    background: #0B2638 ;
+    color: #ffffff;
+    clear: both;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+footer img{
+    background: #000000;
+    color: #ffffff;
+    clear: both;
+    padding: 10px 0px;
+    align-content: flex-start;
+}
+
+.gmail, .facebook, .twitter, .youtube {
+    margin-bottom: 10px
+}
+
+footer div div div section div a:hover{
+    opacity: 3;
+}
+
+.copyrayde{
+    background: #34A1D1  ;
+    margin: 10px 0px;
+}
+
+.copyrayde p {
+    text-align: center;
+    font-size: 12px;
+    font-family:sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
